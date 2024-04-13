@@ -31,7 +31,7 @@ export default async function Home() {
             <div className="space-y-10">
 
               <section>
-                <h2 className="font-aspekta text-xl font-[650] mb-3">Latest Articles</h2>
+                <h2 className="font-aspekta text-xl font-[650] mb-3">最新文章</h2>
 
                 {/* Filters */}
                 <ul className="flex flex-wrap text-sm border-b border-slate-100 dark:border-slate-800">
