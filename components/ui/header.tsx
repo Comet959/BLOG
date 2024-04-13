@@ -34,7 +34,7 @@ export default function Header() {
           {/* Button */}
           <div>
             <Link className="btn-sm text-slate-100 bg-sky-500 hover:bg-sky-600" href="/subscribe">
-              订阅
+              Subscribe
             </Link>
           </div>
         </div>

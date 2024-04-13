@@ -15,7 +15,7 @@ export default function Hero() {
             zone. Welcome! 🇨🇳
           </h1>
           <p className="text-lg text-slate-500 dark:text-slate-400">
-            一名开发者.
+            知行合一。
           </p>
         </div>
       </div>

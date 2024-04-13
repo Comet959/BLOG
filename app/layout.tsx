@@ -6,6 +6,7 @@ import Theme from './theme-provider'
 import SideNavigation from '@/components/ui/side-navigation'
 import Header from '@/components/ui/header'
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const inter = Inter({
   subsets: ['latin'],
@@ -63,6 +64,7 @@ export default function RootLayout({
         </Theme>
       </body>
       <Analytics />
+      <SpeedInsights />
     </html>
   )
 }
