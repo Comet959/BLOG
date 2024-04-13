@@ -36,7 +36,7 @@ export default function Education() {
             </div>
           </div>
         </li>
-      </ul>
+      </ul> 
     </div>
   )
 }
