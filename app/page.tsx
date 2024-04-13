@@ -65,8 +65,8 @@ export default async function Home() {
                 </div>
               </section>
 
-              <Talks />
-              <FeaturedProjects />
+              {/* <Talks /> */}
+              {/* <FeaturedProjects /> */}
 
             </div>
           </div>
