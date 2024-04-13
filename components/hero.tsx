@@ -15,7 +15,8 @@ export default function Hero() {
             zone. Welcome! 🇨🇳
           </h1>
           <p className="text-lg text-slate-500 dark:text-slate-400">
-            知行合一。
+            🪦知行合一 <br />
+            📮联系我: prodigyyanng@gmail.com
           </p>
         </div>
       </div>
