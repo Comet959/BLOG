@@ -3,7 +3,7 @@ import Hero from '@/components/hero'
 import PostItem from './post-item'
 import Talks from '@/components/talks'
 import FeaturedProjects from '@/components/featured-projects'
-import WidgetNewsletter from '@/components/widget-newsletter'
+import WidgetNewsletterZh from '@/components/widget-newsletter'
 import WidgetSponsor from '@/components/widget-sponsor'
 import WidgetBook from '@/components/widget-book'
 
@@ -76,7 +76,7 @@ export default async function Home() {
         <aside className="md:w-[240px] lg:w-[300px] shrink-0">
           <div className="space-y-6">
 
-            <WidgetNewsletter />
+            <WidgetNewsletterZh />
             <WidgetSponsor />
             <WidgetBook />
 
