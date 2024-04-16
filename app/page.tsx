@@ -35,6 +35,11 @@ export default async function Home() {
 
                 {/* Filters */}
                 <ul className="flex flex-wrap text-sm border-b border-slate-100 dark:border-slate-800">
+                <li className="px-3 -mb-px">
+                    <a className="block py-3 font-medium text-slate-800 dark:text-slate-100 border-b-2 border-sky-500" href="#0">
+                      LLMs
+                    </a>
+                  </li>
                   <li className="px-3 -mb-px">
                     <a className="block py-3 font-medium text-slate-800 dark:text-slate-100 border-b-2 border-sky-500" href="#0">
                       Coding
