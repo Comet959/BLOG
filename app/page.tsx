@@ -40,11 +40,11 @@ export default async function Home() {
                       LLMs
                     </a>
                   </li>
-                  <li className="px-3 -mb-px">
+                  {/* <li className="px-3 -mb-px">
                     <a className="block py-3 font-medium text-slate-800 dark:text-slate-100 border-b-2 border-sky-500" href="#0">
                       Coding
                     </a>
-                  </li>
+                  </li> */}
                   <li className="px-3 -mb-px">
                     <a className="block py-3 text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300" href="#0">
                       Startups
